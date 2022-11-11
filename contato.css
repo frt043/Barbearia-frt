@@ -1,0 +1,24 @@
+nav li {
+    display: inline;
+    text-decoration: none;
+    text-transform: uppercase;
+ }
+ 
+ 
+ body {
+     background: #030101;
+     padding: 0;
+     margin: 0;
+ }
+ 
+ #banner{
+     width: 100%;
+ }
+ 
+ h1{
+     font-family: 'Noto Sans Mono', monospace;
+     text-align: center;
+     font-size: 57px;
+      color: white;
+     
+ }
